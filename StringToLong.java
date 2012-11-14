@@ -1,4 +1,10 @@
-
+/**
+ * 
+ * @author Luca Graziani
+ *
+ * This class contains a method to cast from string to long 
+ * without using the java cast
+ */
 public class StringToLong {
 	
 	 private long stringToLong(String input) {

@@ -1,4 +1,10 @@
-
+/**
+ * 
+ * @author Luca Graziani
+ *
+ * This class represent a trinary tree
+ * It has methods for add and delete a node
+ */
 public class TrinaryTree {
 
 	
